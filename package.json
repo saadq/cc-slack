@@ -1,5 +1,5 @@
 {
-  "name": "slack-daily-update",
+  "name": "cc-slack",
   "description": "A tool for Codecademy Slack Moderators that allows you to create a daily update for Slack.",
   "author": "Saad Quadri",
   "license": "MIT",
