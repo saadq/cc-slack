@@ -3,4 +3,4 @@
 
 This will save you about 1 minute of your time ¯\\_(ツ)_/¯
 
-![](https://i.imgur.com/7HFUOZB.png)
+![](https://i.imgur.com/7Fj09Ef.png)
