@@ -9,15 +9,19 @@
     "start": "parcel src/index.html --port 3000"
   },
   "dependencies": {
+    "@types/common-tags": "^1.4.0",
+    "@types/react": "^16.3.9",
+    "@types/react-dom": "^16.0.5",
+    "@types/slackdown": "^0.1.0",
+    "clipboard-copy": "^2.0.0",
     "common-tags": "^1.7.2",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
+    "slackdown": "^0.1.1",
     "styled-components": "^3.2.5"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
-    "babel-preset-react": "^6.24.1",
-    "parcel-bundler": "^1.7.0"
+    "parcel-bundler": "^1.7.0",
+    "typescript": "^2.8.1"
   }
 }
